@@ -20,8 +20,10 @@ PWNAI is an extension some of my prior "AI" which demostrate similar concepts at
 https://github.com/NoDataFound/hackGPT
 https://github.com/NoDataFound/hackGPT/tree/main/hackerParents
 https://github.com/NoDataFound/YouSureAboutThat
-https://github.com/NoDataFound/SpeedCandidating
+https://github.com/NoDataFound/SpeedCandidating live here: https://speedcandidating.org/
 ```
+
+<img width="1556" alt="Screenshot 2024-03-02 at 4 20 28 PM" src="https://github.com/NoDataFound/PwnAI/assets/3261849/25e45dd2-97f1-4054-9bc7-6c873608ffcd">
 
 <img width="930" alt="Screenshot 2024-03-02 at 3 55 47 PM" src="https://github.com/NoDataFound/PwnAI/assets/3261849/d539921e-3e3f-4894-bc10-01eda535dd8b">
 <img width="1681" alt="235321459-35eb1ecb-58b6-4439-9fee-dbc63e13f3e1" src="https://github.com/NoDataFound/PwnAI/assets/3261849/d7cd0eca-d544-4af9-9783-e1676c56d3a6">
